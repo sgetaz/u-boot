@@ -1,0 +1,6 @@
+MX53EVK BOARD
+M:	Jason Liu <jason.hui.liu@nxp.com>
+S:	Maintained
+F:	board/freescale/ccmx53/
+F:	include/configs/ccmx53.h
+F:	configs/ccmx53_defconfig
