@@ -4,4 +4,4 @@
 #
 # (C) Copyright 2010 Freescale Semiconductor, Inc.
 
-obj-y	:= ccmx53.o
+obj-y	:= ccwmx53.o
